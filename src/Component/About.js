@@ -1,5 +1,5 @@
 import React from 'react';
-
+import image from '../../public/images/DP.png';
 function About() {
 
     return <div>
@@ -9,7 +9,7 @@ function About() {
            ID: 20191CSE0082 <br/>
            SEC.:5CSE02<br/>
            </font>
-           <img src="/assets/images/DP.JPG "></img>
+           <img src={image}/> 
     </div>
 
 }
