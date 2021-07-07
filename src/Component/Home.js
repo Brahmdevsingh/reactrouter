@@ -11,7 +11,7 @@ import React from 'react';
          </font>
       </p>
 
-           <img src="/assets/images/bg.jpg"></img>  <br/>
+           <img src="/assets/images/bg.JPG"></img>  <br/>
 
         
      </div>
