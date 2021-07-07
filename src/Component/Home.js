@@ -11,7 +11,7 @@ import React from 'react';
          </font>
       </p>
 
-           <img src="/assets/images/bg.JPG"></img>  <br/>
+           <img src="https://Brahmdevsingh.github.io/reactrouter/assets/images/bg.jpg"></img>  <br/>
 
         
      </div>
