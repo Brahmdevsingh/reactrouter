@@ -9,7 +9,7 @@ function About() {
            ID: 20191CSE0082 <br/>
            SEC.:5CSE02<br/>
            </font>
-           <img src="https://github.com/Brahmdevsingh/reactrouter/blob/main/public/assets/images/DP.jpg "></img>
+           <img src="/assets/images/DP.jpg "></img>
     </div>
 
 }
