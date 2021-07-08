@@ -13,7 +13,7 @@ import React from 'react';
          <font face="Wildwest" size="20px" color="yellow"> 
          EMAIL: chauhanbds006@gmail.com  <br />
          </font>
-         <img src="/assets/images/contact.jpg"></img> <br/>
+         <img src="/assets/images/contact.JPG"></img> <br/>
          <img src="/assets/images/x.jpg"></img>
          </div>
      
