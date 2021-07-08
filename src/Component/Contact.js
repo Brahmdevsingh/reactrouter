@@ -15,6 +15,7 @@ import React from 'react';
          </font>
          <img src="/assets/images/contact.JPG" alt ="images of page"></img> <br/>
          <img src="/assets/images/x.jpg" alt ="images of page"></img>
+         <img src="/assets/images/wallapaper.jpg" alt ="images of page"></img>
          </div>
      
 
