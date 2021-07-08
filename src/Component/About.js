@@ -8,7 +8,7 @@ function About() {
            ID: 20191CSE0082 <br/>
            SEC.:5CSE02<br/>
            </font>
-           <img src="/assets/images/DP.jpg"><image/> 
+           <img src="/assets/images/DP.jpg"></img>
     </div>
 
 }
