@@ -14,7 +14,7 @@ import React from 'react';
          EMAIL: chauhanbds006@gmail.com  <br />
          </font>
          <img src="/assets/images/contact.JPG"></img> <br/>
-         <img src="/assets/images/x.JPG"></img>
+         <img src="/assets/images/x.jpg"></img>
          </div>
      
 
